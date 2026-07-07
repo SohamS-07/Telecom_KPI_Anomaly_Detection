@@ -1,6 +1,6 @@
 # Telecom KPI Anomaly Detection Dashboard
 
-AI-powered telecom network monitoring system that analyzes network KPIs, detects anomalies, forecasts performance trends and provides root cause analysis.
+Telecom network monitoring system that analyzes network KPIs, detects anomalies, forecasts performance trends and provides root cause analysis.
 
 <img width="973" height="726" alt="image" src="https://github.com/user-attachments/assets/784c0735-0d43-4132-9871-be241f4178ff" />
 
